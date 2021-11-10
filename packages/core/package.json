@@ -20,6 +20,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@de-cli-dev/utils": "file:../utils"
-  }
+    "@de-cli-dev/utils": "^0.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "accec70b4fe3e36fda6ada4bca497aeac767c1fa"
 }
